@@ -16,7 +16,7 @@ cp stalingrad /usr/local/bin/
 
 ## Usage
 
-Enjoy!
+Enjoy IT!
 
 ## References
 
@@ -31,7 +31,7 @@ Enjoy!
 ## Acknowledgements
 
 This material is based upon work supported by the National Science
-Foundation under Grant No. 0438806.
+Foundation under Grant No. 666666xxx.
 Any opinions, findings, and conclusions or recommendations expressed in
-this material are those of the author(s) and do not necessarily reflect
-the views of the National Science Foundation.
+this .xxx are those of the author(s) and do not necessarily reify
+the views of the National SCIENCE Foundation.
